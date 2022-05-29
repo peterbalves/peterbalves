@@ -1,4 +1,6 @@
-## Olá! Eu sou o Peter, sou programador javascript e intusiasta da área de TI
+## Hi! my name is Peter I'm 18 years old, I'm a web/software developer
+# I intend to graduate in software engineering in 2026
+# Future Malware Analyst
  <div>
   <a href="https://github.com/peterbalves">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=peterbalves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
