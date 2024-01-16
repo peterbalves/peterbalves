@@ -1,5 +1,5 @@
-## Hi! my name is Peter I'm 18 years old, I'm a web/software developer
-# I intend to graduate in software engineering in 2026
+## Hi! my name is Peter I'm 19 years old, I'm a software developer and QA enginer
+# I intend to graduate in software engineering in 2028
 # Future Malware Analyst
  <div>
   <a href="https://github.com/peterbalves">
