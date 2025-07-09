@@ -1,4 +1,4 @@
-## Hi! my name is Peter I'm 20 years old, I'm a software developer and QA enginer
+## Hi! my name is Peter I'm 20 years old, I'm a Malware developer and Red Team
 # I intend to graduate in software engineering in 2029
 # I Love Malware Analyst
  <div>
