@@ -1,11 +1,7 @@
 ## Hi! my name is Peter I'm 20 years old, I'm a Malware developer and Red Team
 # I intend to graduate in software engineering in 2029
 # I Love Malware Analysis
- <div>
-  <a href="https://github.com/peterbalves">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=peterbalves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peterbalves&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Inosuke-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Inosuke-NodeJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
